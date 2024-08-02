@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/beadc4fa-032a-47b7-ace8-1481cb3e8bab)
+![image](https://github.com/user-attachments/assets/1d9a0ae0-6b99-42f0-9388-d0d7d7bb926a)
+
 REAL_ TIME_CHAT APPLICATION
 # Real-Time Chat and News Application
 
